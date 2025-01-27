@@ -51,9 +51,9 @@ El programa:
 
 ### Variables Globales
 
-- ``: Tamaño de los arreglos (por defecto, 9000).
-- ``: Tamaño del bloque que se divide entre los hilos en la suma paralela (por defecto, 30).
-- ``: Número de elementos a mostrar de cada arreglo (por defecto, 10).
+- `N`: Tamaño de los arreglos (por defecto, 9000).
+- `chunk`: Tamaño del bloque que se divide entre los hilos en la suma paralela (por defecto, 30).
+- `mostrar`: Número de elementos a mostrar de cada arreglo (por defecto, 10).
 
 ### Principales Funciones
 
