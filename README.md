@@ -22,7 +22,7 @@ Antes de ejecutar el programa, asegúrate de cumplir con los siguientes requisit
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/AbioticBaton4/ParallelSum.git
    cd tu-repo
    ```
 2. Compila el programa:
